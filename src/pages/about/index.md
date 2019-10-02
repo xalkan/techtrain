@@ -1,9 +1,9 @@
 ---
 templateKey: about-page
-title: About Tech Train
+title: About TechTrain
 mainImage:
   image: /img/teemu-paananen-376238-unsplash.jpg
-  imageAlt: About Tech Train
+  imageAlt: About TechTrain
 gallery:
   - image: /img/neonbrand-509131-unsplash.jpg
     imageAlt: Wakanda JavaScript developer presenting at a meetup.

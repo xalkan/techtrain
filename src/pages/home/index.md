@@ -3,16 +3,16 @@ templateKey: home-page
 headerImage:
   image: /img/television.png
   imageAlt: Tech Train
-title: 'Learn and meet with engineers in Islamabad, Pakistan'
+title: 'Awesome tech talks in Islamabad, Pakistan'
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
   firstCTA:
-    heading: Past Meetups
+    heading: Past Tech Talks
     linkType: internal
     linkURL: /meetups
-    subHeading: Look at what topics were presented at past meetups.
+    subHeading: Look at what topics were presented at past tech talks.
   secondCTA:
     heading: Volunteer to Present
     linkType: external
