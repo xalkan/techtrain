@@ -21,7 +21,10 @@ developerGroups: |-
   * Continuous Learning
 organizers:
   title: ''
-  gallery: []
+  gallery:
+    - image: /img/organizer-1.jpg
+      imageAlt: Speaker
+      name: Speakers
 seo:
   browserTitle: About | TechTrain
   description: >-
