@@ -19,10 +19,10 @@ callToActions:
     linkURL: 'mailto:shahidalyk@gmail.com'
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
-  browserTitle: Tech Train
+  browserTitle: TechTrain
   description: >-
     Meetup group in Islamabad, Pakistan where engineers get together to learn
     and meet others in the community.
-  title: Tech Train
+  title: TechTrain
 ---
 
