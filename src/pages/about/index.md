@@ -22,9 +22,12 @@ developerGroups: |-
 organizers:
   title: ''
   gallery:
-    - image: /img/organizer-1.jpg
-      imageAlt: Speaker
-      name: Speakers
+    - image: /img/ahmadluqman.jpg
+      imageAlt: Ahmad Luqman | Organizer
+      name: Ahmad Luqman | Organizer
+    - image: /img/shahidalikhan.jpg
+      imageAlt: Shahid Ali Khan | Organizer
+      name: Shahid Ali Khan | Organizer
 seo:
   browserTitle: About | TechTrain
   description: >-
