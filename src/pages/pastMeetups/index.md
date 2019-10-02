@@ -1,9 +1,10 @@
 ---
 templateKey: past-meetups-page
 title: Past Meetups
+path: /meetups
 seo:
   browserTitle: Past Meetups | TechTrain
-  description: ' Meetup group in Islamabad, Pakistan where engineers get together to learn and meet others in the community.'
+  description: Meetup group in Islamabad, Pakistan where engineers get together to learn and meet others in the community.
   title: Past Meetups | TechTrain
 ---
 
